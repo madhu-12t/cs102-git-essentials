@@ -5,3 +5,22 @@ git add                             #It is used to add the changes to the strem
 git clone SSH URL                   #It is sed to a clone repository into local machine using ssh url
 git remote -v                       #It tells about the connections to the repositories
 git log                             #It gives the commite history of the repository
+
+
+Visual studio code is code editor.All scripting languages can also be done with the help of visual studio code.
+It is useful for its Extensions.One such is 'Markdown All in One'.Using markdown extension we can preview the code
+simultaneously in the VS Code.The Markdown is used in many platforms like Github.This Markdown is developed by
+John Gruber and Aaron Swartz on March 19,2004.It has some good structure to see the typed text clear.By using the       markdown we can also make the text User interactive.
+
+The syntax for the title of the markdown file webpage is:
+# CS102
+
+The syntax for the Section of the markdown file webpage is:
+## Section 1
+
+## Section 2
+
+The syntax for the Subsection  of the markdown file webpage is:
+### Subsection 1
+
+### Subsection 2
