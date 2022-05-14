@@ -1,0 +1,7 @@
+git push                            #It is used to update the file from local machine to github server
+git pull                            #It is used to update the file from github server to local machine
+git commit -m 'short description'   #It is used to commit the changes to the stream
+git add                             #It is used to add the changes to the strem
+git clone SSH URL                   #It is sed to a clone repository into local machine using ssh url
+git remote -v                       #It tells about the connections to the repositories
+git log                             #It gives the commite history of the repository
